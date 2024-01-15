@@ -1,11 +1,11 @@
 {
   "description": "a discord bot website",
-  "repo": "https://github.com/botstudios",
+  "repo": "https://github.com/iksmfu",
   "owner": {
-    "username": "BotStudios",
-    "email": "tojoeleeofficial@gmail.com"
+    "username": "iksm",
+    "email": "iksmfu3l@gmail.com"
   },
   "record": {
-    "CNAME": "botstudios.github.io"
+    "CNAME": "iksmfu.github.io"
   }
 }
